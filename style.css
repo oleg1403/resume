@@ -1,0 +1,71 @@
+body {
+  background-color: rgb(207, 209, 176);
+}
+
+.main_conteiner {
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+h2 {
+  color: yellow;
+}
+ul {
+  color: rgb(4, 57, 202);
+  font-size: 14px;
+  line-height: 24px;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+}
+
+.about_me {
+  display: flex;
+  flex-direction: column;
+}
+.about_me_profession {
+  font-size: 24px;
+  font-weight: 700px;
+}
+
+.progects_item {
+  color: rgba(255, 255, 57, 0.979);
+}
+
+.my_progect {
+  background-color: white;
+}
+.my_work_experience {
+  background-color: yellowgreen;
+}
+
+.my_education {
+  background-color: green;
+}
+/* sidebar section */
+.sidebar {
+  width: 700px;
+  padding: 40px 0px;
+}
+.sidebar_title {
+  font-style: normal;
+  font-size: 22px;
+  line-height: 27px;
+  color: blue;
+}
+.contacts_section {
+  margin: 50px 0 0 40px;
+}
+.tech_skills_section {
+  margin: 50px 0 0 40px;
+}
+
+
+p - :tag 
+* - universal 
+# - id identificator 
+id 
+selector 
